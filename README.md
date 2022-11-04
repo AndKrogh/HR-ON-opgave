@@ -1,2 +1,2 @@
 # HR-ON-opgave
-Opgave til HR-ON
+Praktik opgave for HR-ON
